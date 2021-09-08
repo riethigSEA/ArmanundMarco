@@ -4,4 +4,4 @@ Wir arbeiten gemeinsam an dieser Datei...
 Ich war Hier -M
 =======
 Dies ist die zweite Zeile..
->>>>>>> cbf6bf183bb5722ffcde743eb5b93665c66dad0d
+Test Test tets
